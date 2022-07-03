@@ -65,7 +65,7 @@
 
         const loader = new FontLoader();
 
-        loader.load('fonts/helvetiker_regular.typeface.json', function (font){
+        loader.load('/fonts/Mrs_Saint_Delafield_Regular.json', function (font){
             const color = 0x006699;
 
             const matDark = new THREE.LineBasicMaterial({
@@ -117,7 +117,7 @@
                 geometry.translate(xMid,0,0)
 
                 const lineMesh = new THREE.Line(geometry, matDark)
-                lineText.add(lineText)
+                lineText.add(lineMesh)
             }
 
             scene.add(lineText)
