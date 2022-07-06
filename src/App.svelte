@@ -5,6 +5,7 @@
     import Line from "./components/Line.svelte"
     import Text from "./components/Text.svelte"
     import LoaderGltf from "./components/LoaderGltf.svelte";
+    import Animation from "./components/Animation.svelte";
 </script>
 
 <main>
@@ -12,6 +13,7 @@
     <Line />
     <Text />
     <LoaderGltf />
+    <Animation />
 </main>
 
 <style>
