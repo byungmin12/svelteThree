@@ -7,15 +7,17 @@
     import LoaderGltf from "./components/LoaderGltf.svelte";
     import Animation from "./components/Animation.svelte";
     import AnimationFct from "./components/AnimationFct.svelte";
+    import BallAnimation from "./components/BallAnimation.svelte";
 </script>
 
 <main>
-    <DefaultBox />
-    <Line />
-    <Text />
-    <LoaderGltf />
-    <Animation />
-    <AnimationFct />
+<!--    <DefaultBox />-->
+<!--    <Line />-->
+<!--    <Text />-->
+<!--    <LoaderGltf />-->
+<!--    <Animation />-->
+<!--    <AnimationFct />-->
+    <BallAnimation />
 </main>
 
 <style>
