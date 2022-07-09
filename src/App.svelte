@@ -11,12 +11,12 @@
 </script>
 
 <main>
-<!--    <DefaultBox />-->
-<!--    <Line />-->
-<!--    <Text />-->
-<!--    <LoaderGltf />-->
-<!--    <Animation />-->
-<!--    <AnimationFct />-->
+    <DefaultBox />
+    <Line />
+    <Text />
+    <LoaderGltf />
+    <Animation />
+    <AnimationFct />
     <BallAnimation />
 </main>
 
