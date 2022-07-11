@@ -12,11 +12,11 @@
 
 <main>
     <DefaultBox />
-    <Line />
-    <Text />
-    <LoaderGltf />
-    <Animation />
-    <AnimationFct />
+<!--    <Line />-->
+<!--    <Text />-->
+<!--    <LoaderGltf />-->
+<!--    <Animation />-->
+<!--    <AnimationFct />-->
     <BallAnimation />
 </main>
 
