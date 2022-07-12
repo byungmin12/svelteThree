@@ -15,9 +15,9 @@
 <!--    <Line />-->
 <!--    <Text />-->
 <!--    <LoaderGltf />-->
-<!--    <Animation />-->
+    <Animation />
 <!--    <AnimationFct />-->
-    <BallAnimation />
+<!--    <BallAnimation />-->
 </main>
 
 <style>
